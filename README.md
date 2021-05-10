@@ -1,14 +1,14 @@
 - 👋 Hi, I’m <b>Sami Ullah Saleem.</b>
 - 👀 <b> I’m interested in </b>
-   - Web Development
-   - Machine Learning
-   - Cyber Security
-   - Android Development
-   - Cloud Technology and many more.
+   - <i>Web Development</i>
+   - <i>Machine Learning</i>
+   - <i>Cyber Security</i>
+   - <i>Android Development</i>
+   - <i>Cloud Technology and many more.</i>
 - 🌱 I’m currently learning 
-   - Web Development 
-   - Networking
-   - Ethical Hacking and Penetration Testing with Kali Linux
+   - <i>Web Development </i>
+   - <i>Networking </i>
+   - <i>Ethical Hacking and Penetration Testing with Kali Linux </i>
 - 💞️ I’m looking to collaborate on any project. 
 - 📫 How to reach me 
   - <b>Email: </b> samiullah1701734@gmail.com
