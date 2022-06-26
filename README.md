@@ -22,7 +22,7 @@
 
 [![Samiullahsaleem's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiullahsaleem&theme=rogue)](https://github.com/samiullahsaleem)
    
-   
+<h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <a href="https://github.com/samiullahsaleem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullahsaleem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
