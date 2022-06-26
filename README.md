@@ -1,21 +1,36 @@
 # 👋 Hi, I’m <b>Sami Ullah Saleem.</b>
-## I am studying IT at the Punjab University College Of Information and Technology
+## I am a Web3 Enthusiast
 
-- 👀 <b> I’m interested in </b>
-   - <i>Web Development</i>
-   - <i>Machine Learning</i>
-   - <i>Cyber Security</i>
-   - <i>Android Development</i>
-   - <i>Cloud Technology and many more.</i>
-- 🌱 I’m currently learning 
-   - <i>Web Development </i>
-   - <i>Networking </i>
-   - <i>Ethical Hacking and Penetration Testing with Kali Linux </i>
-- 💞️ I’m looking to collaborate on any project. 
-- 📫 How to reach me 
-  - <b></b> samiullah1701734@gmail.com
-  - <b><a href= "https://www.facebook.com/samiullah.saleem.5036">Facebook</a></b> 
-  - <b><a href= "https://www.linkedin.com/in/samiullahsaleem">Linkedin</a></b>
+👀<b> I’m interested in </b>
+<ul>
+  <li>Web Development</li>
+  <li>Smart Contract</li>
+  <li>Machine Learning</li>
+  <li>Software Architect</li>
+  <li>Cyber Security</li>
+ </ul>
+   
+💞️Looking to collaborate on any project. </br>
+<b>📫 &nbsp;Connect with Me</b>
+
+<p align="center">
+<a href="https://linkedin.com/in/samiullahsaleem"><img src="https://img.shields.io/badge/-Samiullahsaleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:samiullah1701734@gmail.com"><img src="https://img.shields.io/badge/-samiullah1701734@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+   
+   ## Contribution Graph
+
+[![Samiullahsaleem's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiullahsaleem&theme=rogue)](https://github.com/samiullahsaleem)
+   
+   
+<p align="center">
+<a href="https://github.com/samiullahsaleem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullahsaleem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiullahsaleem&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiullahsaleem&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
   
 
 <!---
