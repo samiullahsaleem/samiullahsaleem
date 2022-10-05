@@ -1,10 +1,10 @@
 # 👋 Hi, I’m <b>Sami Ullah Saleem.</b>
-## I am a Web3 Enthusiast
+## I am a Blockchain Developer
 
 👀<b> I’m interested in </b>
 <ul>
   <li>Web Development</li>
-  <li>Smart Contract</li>
+  <li>Smart Contract Development</li>
   <li>Machine Learning</li>
   <li>Software Architect</li>
   <li>Cyber Security</li>
@@ -17,7 +17,8 @@
 <a href="https://linkedin.com/in/samiullahsaleem"><img src="https://img.shields.io/badge/-Samiullahsaleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:samiullah1701734@gmail.com"><img src="https://img.shields.io/badge/-samiullah1701734@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-   
+<b>Profile Views</b><br>
+   ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
    ## Contribution Graph
 
 [![Samiullahsaleem's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiullahsaleem&theme=rogue)](https://github.com/samiullahsaleem)
