@@ -1,14 +1,12 @@
 # 👋 Hi, I’m <b>Sami Ullah Saleem.</b>
-## I am a Full Stack Django and Blockchain Developer
+## I am a Software Engineer
 
 👀<b> I’m interested in </b>
 <ul>
   <li>Web Development</li>
-  <li>Smart Contract Development</li>
-  <li>Machine Learning</li>
+  <li>Backend Engineering</li>
   <li>Software Architect</li>
   <li>Cyber Security</li>
-  <li>Self Driving Cars</li>
  </ul>
    
 💞️Looking to collaborate on any project. </br>
