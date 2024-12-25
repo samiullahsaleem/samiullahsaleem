@@ -1,5 +1,5 @@
 # 👋 Hi, I’m <b>Sami Ullah Saleem.</b>
-## I am a Software Engineer
+## I am a Software Engineer <a href="https://www.i2cinc.com/" target="_blank" >@i2cinc</a>
 
 👀<b> I’m interested in </b>
 <ul>
