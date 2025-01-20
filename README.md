@@ -6,7 +6,7 @@
   <li>Web Development</li>
   <li>Backend Engineering</li>
   <li>Software Architect</li>
-  <li>Cyber Security</li>
+  <li>Penetration Testing</li>
  </ul>
    
 💞️Looking to collaborate on any project. </br>
