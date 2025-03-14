@@ -18,11 +18,7 @@
 
 <b>Profile Views</b><br>
    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-   ## Contribution Graph
-
-[![Samiullahsaleem's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiullahsaleem&theme=rogue)](https://github.com/samiullahsaleem)
-  
-  
+ 
 ---
 
 # 🏆 GitHub Trophies
@@ -37,12 +33,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullahsaleem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiullahsaleem&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiullahsaleem&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
-
-# Github Metrics
-![Metrics](https://metrics.lecoq.io/samiullahsaleem?template=classic&habits=1&starlists=1&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&posts=false&posts.source=dev.to&posts.user=samiullahsaleem&posts.descriptions=true&posts.covers=true&posts.limit=2&config.timezone=Asia%2FKarachi)
 <!---
 samiullahsaleem/samiullahsaleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
